@@ -1,4 +1,4 @@
-#Street Light Fault Detection - PyQt Application
+# Street Light Fault Detection - PyQt Application
 Overview
 This Python desktop application, built using PyQt, is designed to display data related to the fault detection of street lights. It provides an intuitive and user-friendly interface for monitoring and managing street light systems, ensuring efficient maintenance and quick fault resolution.
 
